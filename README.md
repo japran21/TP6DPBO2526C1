@@ -64,5 +64,7 @@ Saya Muhammad Ilal Zhafran dengan NIM 2502623 mengerjakan Tugas Praktikum 6 pada
 <img width="442" height="830" alt="image" src="https://github.com/user-attachments/assets/b40f0fdf-7f65-4f89-ad21-b8bd717d39ca" />
 <img width="447" height="825" alt="image" src="https://github.com/user-attachments/assets/1e73c451-b68c-4a81-9ba9-3e1bd0823fe9" />
 
+# Vidio
+ada di folder dokumentasi
 
 
