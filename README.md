@@ -1,3 +1,5 @@
+
+
 # TP6DPBO2526C1
 
 # JANJI
@@ -65,6 +67,7 @@ Saya Muhammad Ilal Zhafran dengan NIM 2502623 mengerjakan Tugas Praktikum 6 pada
 <img width="447" height="825" alt="image" src="https://github.com/user-attachments/assets/1e73c451-b68c-4a81-9ba9-3e1bd0823fe9" />
 
 # Vidio
-ada di folder dokumentasi
+https://github.com/user-attachments/assets/6f4bc36f-31d2-42f4-9859-19dc168a154c
+
 
 
